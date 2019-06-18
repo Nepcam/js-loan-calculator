@@ -2,4 +2,6 @@
 JavaScript Loan Calculator  
 
 
-17/062019 - Building a loan calculator web application
+17/062019 
+- Building a loan calculator web application
+- Built the UI 
